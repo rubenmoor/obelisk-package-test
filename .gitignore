@@ -5,6 +5,7 @@
 cabal.project.local
 cabal.sandbox.config
 ctags
+deployment/
 dist-newstyle/
 dist/
 ghcid-output.txt
