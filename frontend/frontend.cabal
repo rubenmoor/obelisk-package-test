@@ -11,6 +11,7 @@ library
                , obelisk-route
                , jsaddle
                , reflex-dom
+               , regex-tdfa
                , obelisk-executable-config-lookup
                , obelisk-generated-static
                , text
