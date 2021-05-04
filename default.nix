@@ -17,6 +17,6 @@ project ./. ({ ... }: {
   ios.bundleIdentifier = "systems.obsidian.obelisk.examples.minimal";
   ios.bundleName = "Obelisk Minimal Example";
   overrides = self: super: {
-    clay = self.callhackage "clay" "0.13.3" {};
+    clay = self.callHackage "clay" "0.13.3" {};
   };
 })
